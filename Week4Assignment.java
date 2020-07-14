@@ -1,3 +1,4 @@
+// Code reviewed by @professorgordon
 //Nolan Chandler Turner @Nalonrenrut
 package week4Practice;
 import java.util.Scanner;
